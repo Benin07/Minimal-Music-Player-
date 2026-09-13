@@ -24,5 +24,3 @@ A lightweight, no-frills desktop music player built with **Python**, **Tkinter**
 | `tkinter` | GUI window, listbox, buttons, menus |
 | `pygame.mixer` | Audio loading and playback |
 | `os` | Folder scanning & file paths |
-
-## 📁 Project Structure
